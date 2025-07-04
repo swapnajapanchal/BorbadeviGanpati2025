@@ -1,1 +1,1 @@
-static ecommerce website
+static ecommerce website.
